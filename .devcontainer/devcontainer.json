@@ -1,0 +1,12 @@
+{
+  "name": "Social agents lab",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "postCreateCommand": "npm install",
+  "forwardPorts": [8787],
+  "portsAttributes": {
+    "8787": { "label": "Social agents test page", "onAutoForward": "notify" }
+  },
+  "customizations": {
+    "codespaces": { "openFiles": ["README.md", "src/index.ts"] }
+  }
+}
