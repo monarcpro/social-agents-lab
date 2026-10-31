@@ -3,7 +3,7 @@
 Build your first multi-agent app on Cloudflare, all in the browser.
 A 35-minute workshop by Salman Shaikh, MONARC STUDIOS.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/OWNER/social-agents-lab?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/monarcpro/social-agents-lab?quickstart=1)
 
 You type one product update. Five small AI agents turn it into a post for LinkedIn, X and Instagram, and check each post before it goes out.
 
